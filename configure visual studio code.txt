@@ -9,4 +9,15 @@ https://www.digitalocean.com/community/tutorials/how-to-use-go-modules
 
 
 
-https://git-scm.com/book/en/v2/Git-Tools-Submodules
+Envy@DESKTOP-D3CG9B9 MINGW64 /e/projects/golang2023
+$ git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://xxx:xxx@github.com/kn3sv1/golang2023.git
+git push -u origin master
+
+
+
+
+
